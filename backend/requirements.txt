@@ -8,3 +8,5 @@ alembic==1.13.3
 openai==1.57.0
 pydantic==2.9.2
 
+
+
